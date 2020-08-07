@@ -1,6 +1,6 @@
 # Sscay
 
-**DPI** 500
+**DPI** 500+
 **SENSE**
 Valorant: 0.46
 Paladins: 3.6
